@@ -5,8 +5,8 @@
             "title": "html+css内容梳理",
             "content": "html+css.md",
             "category": "html+css",
-            "describe": "dfasdfsd",
-            "date" :"2020-3-18"
+            "describe": "html认识的所有标签，css选择器权重介绍，定位浮动介绍，精灵图，滑动门，字体图标的使用。h5c3新标签，css3盒子模型，2d变换3d变换，css动画制作",
+            "date" :"2020-3-12"
         },
     
         {
@@ -27,12 +27,36 @@
             "date" :"2020-3-30"
         },
         {
-            "Id": 4,       
-            "title": "dapp搭建",
-            "content": "dapp.md",
-            "category": "node",
-            "describe": "none",
-            "date" :"2020-4-17"
+            "Id": 5,       
+            "title": "标签分类及宽高整理",
+            "content": "标签分类及宽高整理.md",
+            "category": "html+css",
+            "describe": "三类标签的特性，以及宽高设置默认值设置成%的注意事项总结",
+            "date" :"2020-3-25"
+        },
+        {
+            "Id": 6,       
+            "title": "浮动介绍与整理",
+            "content": "浮动.md",
+            "category": "html+css",
+            "describe": "浮动的特性，以及清除浮动的几种方式，最后解释了overflow清除浮动的原理",
+            "date" :"2020-5-21"
+        },
+        {
+            "Id": 7,       
+            "title": "所有的居中方式总结",
+            "content": "水平居中垂直居中整理.md",
+            "category": "html+css",
+            "describe": "提出居中的必要条件，接着介绍各种情况的水平居中和垂直居中的解决方案",
+            "date" :"2020-5-21"
+        },
+        {
+            "Id": 8,       
+            "title": "flex和栅格布局",
+            "content": "flex布局整理.md",
+            "category": "html+css",
+            "describe": "flex属性样式总结+栅格布局，这块需要多用",
+            "date" :"2020-5-21"
         }
     ]
 }
