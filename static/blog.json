@@ -1,62 +1,105 @@
-{
+﻿{
     "bloglists":[
         {
             "Id": 1,       
             "title": "html+css内容梳理",
-            "content": "html+css.md",
+            "content": "1-html+css内容梳理.md",
             "category": "html+css",
             "describe": "html认识的所有标签，css选择器权重介绍，定位浮动介绍，精灵图，滑动门，字体图标的使用。h5c3新标签，css3盒子模型，2d变换3d变换，css动画制作",
             "date" :"2020-3-12"
         },
-    
         {
             "Id": 2,       
-            "title": "js梳理1",
-            "content": "js上.md",
-            "category": "js",
-            "describe": "none",
-            "date" :"2020-3-25"
+            "title": "标签分类及宽高整理",
+            "content": "2-标签分类及宽高整理.md",
+            "category": "html+css",
+            "describe": "三类标签的特性，以及宽高设置默认值设置成%的注意事项总结",
+            "date" :"2020-3-12"
         },
-    
         {
             "Id": 3,       
-            "title": "js梳理2",
-            "content": "js下.md",
-            "category": "js",
-            "describe": "none",
-            "date" :"2020-3-30"
+            "title": "浮动介绍与整理",
+            "content": "3-浮动介绍与整理.md",
+            "category": "html+css",
+            "describe": "浮动的特性，以及清除浮动的几种方式，最后解释了overflow清除浮动的原理",
+            "date" :"2020-3-12"
+        },
+        {
+            "Id": 4,       
+            "title": "水平+垂直居中总结",
+            "content": "4-水平+垂直居中总结.md",
+            "category": "html+css",
+            "describe": "提出居中的必要条件，接着介绍各种情况的水平居中和垂直居中的解决方案",
+            "date" :"2020-3-15"
         },
         {
             "Id": 5,       
-            "title": "标签分类及宽高整理",
-            "content": "标签分类及宽高整理.md",
+            "title": "flex和栅格布局",
+            "content": "5-flex和栅格布局.md",
             "category": "html+css",
-            "describe": "三类标签的特性，以及宽高设置默认值设置成%的注意事项总结",
-            "date" :"2020-3-25"
+            "describe": "flex属性样式总结+栅格布局，这块需要多用",
+            "date" :"2020-4-2"
         },
+    
         {
             "Id": 6,       
-            "title": "浮动介绍与整理",
-            "content": "浮动.md",
-            "category": "html+css",
-            "describe": "浮动的特性，以及清除浮动的几种方式，最后解释了overflow清除浮动的原理",
-            "date" :"2020-5-21"
+            "title": "js基本语法回顾",
+            "content": "6-js基本语法回顾.md",
+            "category": "js",
+            "describe": "显式变换隐式变换，数据类型的差别，全局局部变量以及作用域链，内置对象",
+            "date" :"2020-3-18"
         },
         {
             "Id": 7,       
-            "title": "所有的居中方式总结",
-            "content": "水平居中垂直居中整理.md",
-            "category": "html+css",
-            "describe": "提出居中的必要条件，接着介绍各种情况的水平居中和垂直居中的解决方案",
-            "date" :"2020-5-21"
+            "title": "隐式变换和显式变换",
+            "content": "7-隐式变换和显式变换.md",
+            "category": "js",
+            "describe": "各种类型下隐式变换整理+ 显示变换几个函数",
+            "date" :"2020-3-30"
         },
+        
         {
             "Id": 8,       
-            "title": "flex和栅格布局",
-            "content": "flex布局整理.md",
-            "category": "html+css",
-            "describe": "flex属性样式总结+栅格布局，这块需要多用",
-            "date" :"2020-5-21"
+            "title": "数组和字符串的方法一览",
+            "content": "8-数组和字符串方法一览.md",
+            "category": "js",
+            "describe": "数组字符串常用方法整理，外加变异方法总结",
+            "date" :"2020-2-20"
+        },
+    
+        {
+            "Id": 9,       
+            "title": "js高级语法整理",
+            "content": "9-js高级语法整理.md",
+            "category": "js",
+            "describe": "原型与原型链，继承，闭包等",
+            "date" :"2020-4-10"
+        },
+        {
+            "Id": 10,       
+            "title": "原型+原型链与继承",
+            "content": "10-原型+原型链与继承.md",
+            "category": "js",
+            "describe": "原型与原型链图示讲解，介绍继承的几种方法",
+            "date" :"2020-4-10"
+        },
+        {
+            "Id": 11,       
+            "title": "闭包的理解",
+            "content": "11-闭包的理解.md",
+            "category": "js",
+            "describe": "闭包的特性，为什么使用闭包",
+            "date" :"2020-4-10"
+        },
+        
+
+        {
+            "Id": 100,       
+            "title": "刷题总结",
+            "content": "刷题总结.md",
+            "category": "js",
+            "describe": "刷题过程中，一些比较常用的，惊艳的方法的记录",
+            "date" :"2020-4-10"
         }
     ]
 }
